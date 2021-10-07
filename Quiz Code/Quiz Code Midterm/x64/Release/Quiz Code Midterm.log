@@ -1,0 +1,9 @@
+﻿  Quiz Code Midterm.cpp
+C:\Users\kimmy\Documents\Skool\Year 3 Sem 1\Game Engines\Midterm Quiz\Quiz Code\Quiz Code Midterm\Quiz Code Midterm.cpp(14,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kimmy\Documents\Skool\Year 3 Sem 1\Game Engines\Midterm Quiz\Quiz Code\Quiz Code Midterm\Quiz Code Midterm.cpp(16,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     Creating library C:\Users\kimmy\Documents\Skool\Year 3 Sem 1\Game Engines\Midterm Quiz\Quiz Code\Quiz Code Midterm\x64\Release\Quiz Code Midterm.lib and object C:\Users\kimmy\Documents\Skool\Year 3 Sem 1\Game Engines\Midterm Quiz\Quiz Code\Quiz Code Midterm\x64\Release\Quiz Code Midterm.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Quiz Code Midterm.vcxproj -> C:\Users\kimmy\Documents\Skool\Year 3 Sem 1\Game Engines\Midterm Quiz\Quiz Code\Quiz Code Midterm\x64\Release\Quiz Code Midterm.dll
